@@ -1,0 +1,23 @@
+@font-face {
+    font-family:"Courgette Regular";
+    src: url("font/Courgette-Regular.ttf");
+  }
+  
+  @font-face{
+    font-family: "Ginga";
+    src: url("font/Ginga.ttf");
+  }
+
+  .navbar-brand{
+      font-family: Courgette Regular;
+  }
+
+  .navbar-nav{
+      float: left;
+  }
+
+  .row{
+      padding: 10pt 0pt;
+  }
+
+ 
